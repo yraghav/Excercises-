@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>46F9AD2C-0F67-4B66-B0D6-2AEA17466187</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Calculator</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FFD27F2C-4F45-4410-A7C8-3E803B1387B1</key>
+		<string>https://github.com/yraghav/Excercises-.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Projects/Calculator/Calculator.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FFD27F2C-4F45-4410-A7C8-3E803B1387B1</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/yraghav/Excercises-.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FFD27F2C-4F45-4410-A7C8-3E803B1387B1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FFD27F2C-4F45-4410-A7C8-3E803B1387B1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Yedu</string>
+		</dict>
+	</array>
+</dict>
+</plist>

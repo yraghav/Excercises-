@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>D0674F5D-6BDB-4214-B102-E882EE587767</string>
+	<string>4892D7CA-2D6C-439F-93EB-B40CCBCF1483</string>
 	<key>IDESourceControlProjectName</key>
-	<string>sample</string>
+	<string>Trinumber</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>665C7489-4AB5-4402-9D00-1F36DE5F2CEB</key>
-		<string>https://github.com/yraghav/s1.git</string>
+		<key>FFD27F2C-4F45-4410-A7C8-3E803B1387B1</key>
+		<string>https://github.com/yraghav/Excercises-.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>sample/sample.xcodeproj/project.xcworkspace</string>
+	<string>Projects/Trinumber/Trinumber.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>665C7489-4AB5-4402-9D00-1F36DE5F2CEB</key>
-		<string>../../..</string>
+		<key>FFD27F2C-4F45-4410-A7C8-3E803B1387B1</key>
+		<string>../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/yraghav/s1.git</string>
+	<string>https://github.com/yraghav/Excercises-.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>665C7489-4AB5-4402-9D00-1F36DE5F2CEB</string>
+	<string>FFD27F2C-4F45-4410-A7C8-3E803B1387B1</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>665C7489-4AB5-4402-9D00-1F36DE5F2CEB</string>
+			<string>FFD27F2C-4F45-4410-A7C8-3E803B1387B1</string>
 			<key>IDESourceControlWCCName</key>
-			<string>s1</string>
+			<string>Yedu</string>
 		</dict>
 	</array>
 </dict>

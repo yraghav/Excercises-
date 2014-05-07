@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7F4C41821919588E00E7B882"
-               BuildableName = "sample"
-               BlueprintName = "sample"
-               ReferencedContainer = "container:sample.xcodeproj">
+               BlueprintIdentifier = "7F56F296191AB6FA001A23E2"
+               BuildableName = "Arithmetic"
+               BlueprintName = "Arithmetic"
+               ReferencedContainer = "container:Arithmetic.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7F4C41821919588E00E7B882"
-            BuildableName = "sample"
-            BlueprintName = "sample"
-            ReferencedContainer = "container:sample.xcodeproj">
+            BlueprintIdentifier = "7F56F296191AB6FA001A23E2"
+            BuildableName = "Arithmetic"
+            BlueprintName = "Arithmetic"
+            ReferencedContainer = "container:Arithmetic.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -51,10 +51,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7F4C41821919588E00E7B882"
-            BuildableName = "sample"
-            BlueprintName = "sample"
-            ReferencedContainer = "container:sample.xcodeproj">
+            BlueprintIdentifier = "7F56F296191AB6FA001A23E2"
+            BuildableName = "Arithmetic"
+            BlueprintName = "Arithmetic"
+            ReferencedContainer = "container:Arithmetic.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -69,10 +69,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7F4C41821919588E00E7B882"
-            BuildableName = "sample"
-            BlueprintName = "sample"
-            ReferencedContainer = "container:sample.xcodeproj">
+            BlueprintIdentifier = "7F56F296191AB6FA001A23E2"
+            BuildableName = "Arithmetic"
+            BlueprintName = "Arithmetic"
+            ReferencedContainer = "container:Arithmetic.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

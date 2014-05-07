@@ -1,6 +1,6 @@
 //
 //  main.m
-//  Arithmetic
+//  to be deleted
 //
 //  Created by User1 on 2014-05-07.
 //  Copyright (c) 2014 yedu. All rights reserved.
@@ -13,8 +13,10 @@ int main(int argc, const char * argv[])
 
     @autoreleasepool {
         
-        // insert code here...
-        NSLog(@"Hello, World!");
+        char c,d;
+        c='d';
+        d=c;
+        NSLog(@"d= %c",d);
         
     }
     return 0;
